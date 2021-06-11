@@ -21,9 +21,8 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-hc&show_icons=true&theme=dark&locale=en&layout=compact" alt="arthur-hc" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&text_color=fffafa&bg_color=0d1117&locale=en" alt="arthur-hc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&text_color=fffafa&bg_color=0d1117&locale=en" alt="arthur-hc" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&text_color=fffafa&bg_color=0d1117&locale=en" alt="arthur-hc" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&text_color=fffafa&bg_color=0d1117&locale=en" alt="arthur-hc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-hc&theme=dark" alt="arthur-hc" /></p>
