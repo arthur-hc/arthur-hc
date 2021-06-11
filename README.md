@@ -1,7 +1,3 @@
-# arthur-hc
-
-![Snake animation](https://github.com/arthur-hc/arthur-hc/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A Full Stack developer student from Brazil</h3>
 
@@ -23,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&text_color=fffafa&bg_color=000000&locale=en" alt="arthur-hc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-hc&theme=dark" alt="arthur-hc" /></p>
+![Snake animation](https://github.com/arthur-hc/arthur-hc/blob/output/github-contribution-grid-snake.svg)
