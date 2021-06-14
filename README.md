@@ -1,5 +1,5 @@
 <h1 align="left" style="color:green;">Hi 👋, I'm Arthur</h1>
-<h3 align="left">A Full Stack developer student from Brazil</h3>
+<h3 align="left">A Full Stack student from Brazil</h3>
 <hr>
 <a href="https://linkedin.com/in/arthur-hc">
 <img align="right" alt="Rafa-yoda" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623628581321.png" width="15%">
