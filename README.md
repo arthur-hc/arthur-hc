@@ -5,7 +5,7 @@
 <img align="right" alt="Rafa-yoda" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623628581321.png" width="15%">
 </a>
 
-<h3 align="left">Reach me:</h3>
+<h3 align="left">Contact me:</h3>
 
 <p align="left">
  <a href="https://linkedin.com/in/arthur-hc"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5.0%"/></a>
