@@ -1,8 +1,9 @@
+<img alt="arthur-brand" src="./images/gitHub2.jpg" width="100%">
 <h1 align="left" style="color:green;">Hi 👋, I'm Arthur</h1>
 <h3 align="left">A Full Stack student from Brazil</h3>
 <hr>
 <a href="https://linkedin.com/in/arthur-hc">
-<img align="right" alt="Rafa-yoda" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623628581321.png" width="15%">
+<img align="right" alt="arthur-octocat" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623628581321.png" width="15%">
 </a>
 
 <h3 align="left">Contact me:</h3>
