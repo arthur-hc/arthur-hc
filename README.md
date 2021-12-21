@@ -1,6 +1,6 @@
 <img alt="arthur-brand" src="./images/gitHub2.jpg" width="100%">
 <h1 align="left" style="color:green;">Hi 👋, I'm Arthur</h1>
-<h3 align="left">A Full Stack student from Brazil</h3>
+<h3 align="left">A Full Stack developer from Brazil</h3>
 <hr>
 <a href="https://linkedin.com/in/arthur-hc">
 
