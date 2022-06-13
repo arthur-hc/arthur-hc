@@ -31,5 +31,6 @@
 
 <div style="display: inline_block">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact" alt="arthur-hc" />
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact"
+      </div>
 
