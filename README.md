@@ -9,7 +9,7 @@
 <p align="left">
  <a href="https://linkedin.com/in/arthur-hc"><img src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" width="5.0%"/></a>
  <a href="mailto:arthurhermannc@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/></a>
- <a href="https://api.whatsapp.com/send?phone=5511971217623&text=Hi%20Arthur%2C%20I%20saw%20your%20Github!%20Can%20we%20talk%3F"> <img src="https://img.icons8.com/officel/36/000000/whatsapp.png" width="3.5%"/></a>
+
 </p>
 
 
