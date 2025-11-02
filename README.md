@@ -4,7 +4,7 @@
 ### 💻 Backend Developer
 Since 2021, I've been passionate about software architecture, scalability, and high performance. I focus on transforming real-world challenges into efficient and reliable systems, always striving for innovation and quality in every project.
 
-🔭 I’m currently working full-time at KPMG and on some personal projects that you can check out here.
+🔭 I’m currently working full-time at KPMG Brazil and on some personal projects that you can check out here.
 
 🌱 I’m currently learning about Software Architecture, Java with Spring, and Kubernetes, and soon I’ll start an MBA in Software Architecture.
 
