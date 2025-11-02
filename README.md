@@ -1,3 +1,5 @@
+<img alt="arthur-brand" src="./images/sean-lim-NPlv2pkYoUA-unsplash.jpg" width="100%" />&nbsp;
+
 # Hello 👋, I'm Arthur
 
 ### 💻 Backend Developer
