@@ -1,4 +1,3 @@
-<img alt="arthur-brand" src="./images/gitHub2.jpg" width="100%" />&nbsp;
 # Hello 👋, I'm Arthur
 
 ### 💻 Backend Developer
