@@ -32,11 +32,6 @@ Since 2021, I've been passionate about software architecture, scalability, and h
 
 
 ## GitHub Stats
-
-<div style="display: inline_block">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact" alt="arthur-hc" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthur-hc&show_icons=true&theme=dark&title_color=ffac02&locale=en&layout=compact"
-</div>
  
 ![Profile Views](https://komarev.com/ghpvc/?username=arthur-hc&label=Profile%20Views&color=ffac02&style=flat)
 
