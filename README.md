@@ -7,7 +7,7 @@ Since 2021, I've been passionate about software architecture, scalability, and h
 
 🔭 I’m currently working full-time at HeadsOn, allocated at Celcoin, and on some personal projects that you can check out here.
 
-🌱 I’m currently learning about Software Architecture, Java with Spring, Kubernetes, and soon I’ll start an MBA in Software Architecture.
+🌱 I’m currently expanding my expertise in Software Architecture, Java with Spring, and Kubernetes, while pursuing an MBA in Software Architecture.
 
 ❓ Feel free to ask me anything related to Software Architecture, Design Patterns, and Best Practices. 
 
